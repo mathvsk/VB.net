@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form1
+Partial Class Frm__TelaPrincipal
     Inherits System.Windows.Forms.Form
 
     'Descartar substituições de formulário para limpar a lista de componentes.
@@ -22,17 +22,30 @@ Partial Class Form1
     'Não o modifique usando o editor de códigos.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
-        'Form1
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(238, 232)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(349, 140)
+        Me.Button1.TabIndex = 0
+        Me.Button1.Text = "Clique Aqui"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'Frm__TelaPrincipal
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(2120, 747)
-        Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.ClientSize = New System.Drawing.Size(833, 661)
+        Me.Controls.Add(Me.Button1)
+        Me.Name = "Frm__TelaPrincipal"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "Primeiro Programa"
         Me.ResumeLayout(False)
 
     End Sub
 
+    Friend WithEvents Button1 As Button
 End Class

@@ -1,0 +1,12 @@
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\bin\Debug\Projeto - 01.exe.config
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\bin\Debug\Projeto - 01.exe
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\bin\Debug\Projeto - 01.pdb
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\bin\Debug\Projeto - 01.xml
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\obj\Debug\Projeto - 01.vbprojAssemblyReference.cache
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\obj\Debug\Projeto___01.Resources.resources
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\obj\Debug\Projeto - 01.vbproj.GenerateResource.cache
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\obj\Debug\Projeto - 01.vbproj.CoreCompileInputs.cache
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\obj\Debug\Projeto - 01.exe
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\obj\Debug\Projeto - 01.xml
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\obj\Debug\Projeto - 01.pdb
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 01\obj\Debug\Projeto___01.Frm__TelaPrincipal.resources
