@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1800
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Projeto - 01", "Projeto - 01\Projeto - 01.vbproj", "{C254D998-54A0-4118-9D45-146E943BF401}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Projeto - 02 - Criando variaveis e Declarando Tipos", "Projeto - 02 - Criando variaveis\Projeto - 02 - Criando variaveis e Declarando Tipos.vbproj", "{24768216-3362-4BB6-A3D8-460E549F63F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C254D998-54A0-4118-9D45-146E943BF401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C254D998-54A0-4118-9D45-146E943BF401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C254D998-54A0-4118-9D45-146E943BF401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24768216-3362-4BB6-A3D8-460E549F63F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24768216-3362-4BB6-A3D8-460E549F63F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24768216-3362-4BB6-A3D8-460E549F63F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24768216-3362-4BB6-A3D8-460E549F63F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

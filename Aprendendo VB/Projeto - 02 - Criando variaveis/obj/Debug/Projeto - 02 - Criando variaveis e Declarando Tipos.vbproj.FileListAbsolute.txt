@@ -1,0 +1,12 @@
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\bin\Debug\Projeto - 02 - Criando variaveis.exe.config
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\bin\Debug\Projeto - 02 - Criando variaveis.exe
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\bin\Debug\Projeto - 02 - Criando variaveis.pdb
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\bin\Debug\Projeto - 02 - Criando variaveis.xml
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\obj\Debug\Projeto - 02 - Criando variaveis e Declarando Tipos.vbprojAssemblyReference.cache
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\obj\Debug\Projeto___02___Criando_variaveis.Frm_Tela02.resources
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\obj\Debug\Projeto___02___Criando_variaveis.Resources.resources
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\obj\Debug\Projeto - 02 - Criando variaveis e Declarando Tipos.vbproj.GenerateResource.cache
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\obj\Debug\Projeto - 02 - Criando variaveis e Declarando Tipos.vbproj.CoreCompileInputs.cache
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\obj\Debug\Projeto - 02 - Criando variaveis.exe
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\obj\Debug\Projeto - 02 - Criando variaveis.xml
+C:\Users\matheus\Desktop\VB.net\Aprendendo VB\Projeto - 02 - Criando variaveis\obj\Debug\Projeto - 02 - Criando variaveis.pdb
