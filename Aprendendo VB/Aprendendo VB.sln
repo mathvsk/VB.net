@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Projeto - 01", "Projeto - 0
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Projeto - 02 - Criando variaveis e Declarando Tipos", "Projeto - 02 - Criando variaveis\Projeto - 02 - Criando variaveis e Declarando Tipos.vbproj", "{24768216-3362-4BB6-A3D8-460E549F63F7}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Projeto - 03 - Manipulando textos", "Projeto - 03 - Manipulando textos\Projeto - 03 - Manipulando textos.vbproj", "{C46EE142-57D2-4A1E-A18D-4814EA847275}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{24768216-3362-4BB6-A3D8-460E549F63F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24768216-3362-4BB6-A3D8-460E549F63F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24768216-3362-4BB6-A3D8-460E549F63F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46EE142-57D2-4A1E-A18D-4814EA847275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46EE142-57D2-4A1E-A18D-4814EA847275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46EE142-57D2-4A1E-A18D-4814EA847275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46EE142-57D2-4A1E-A18D-4814EA847275}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
